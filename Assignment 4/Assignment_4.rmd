@@ -58,7 +58,7 @@ GrowthSW_table
 ```
 
 **Designated place**: type one or two sentences describing this table of a fellow student below. For example, comment on the mean and median growth of both groups. Then stage, commit and push it to their github repository. 
-
+The mean and median of countries that did not have a revolution was higher than the countries who did have a revoultion, indicating that not having a revolution is beneficial for the growth of your country. 
 
 ### Part 3: Make a table summarizing reressions using modelsummary and kable
 
